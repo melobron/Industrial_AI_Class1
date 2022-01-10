@@ -12,3 +12,6 @@
 
 6. Semiconductor Manufacturing: Anomaly Detection with Sensor Data
 - Decision Tree, Xgboost, Isolation Forest, Local Outlier Filter, OneclassSVM, Elliptic Envelope
+
+project7: Mining
+- Multicollinearity, Linear Regression, Random Forest, Gradient Boostings
