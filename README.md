@@ -8,3 +8,7 @@
 
 
 3. Broken Machine Detection
+
+
+6. Semiconductor Manufacturing: Anomaly Detection with Sensor Data
+- Decision Tree, Xgboost, Isolation Forest, Local Outlier Filter, OneclassSVM, Elliptic Envelope
